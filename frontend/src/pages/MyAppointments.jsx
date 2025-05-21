@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Doctors = () => {
+const MyAppointments = () => {
   return (
     <div></div>
   )
 }
 
-export default Doctors
+export default MyAppointments
